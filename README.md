@@ -9,4 +9,10 @@
 |3 | 11 | Jul. |
 ## CheckList
 - Level 0
+  - [x] HTML & CSS
+  - [X] Git & GitHub
+  - [x] Networking
+
 - level 1
+  - [x] JavaScript
+  - [ ] Express.js
